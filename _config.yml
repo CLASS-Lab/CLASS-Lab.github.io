@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "CLASS-LAB.png"
-  name             : "Your Sidebar Name"
+  name             : "CLASS LAB"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Shenzhen, China"
-  employer         : "Harbin Institute of Technology, Shenzhen"
+  employer         : "HIT, Shenzhen"
   uri              : # URL
   email            : "none@example.org" 
 
