@@ -1,12 +1,19 @@
 ---
 permalink: /
-title: "News and Updates"
+title: "Research and Updates"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Research Areas
+======
+CLASS Lab's research covers fundamental algorithms on learning, estimation and control, and their applications in planning, SLAM and navigation tasks of mobile robotics and autonomous systems such as Autodriving, autonomous grounded vehicles and underwater vehicles.
+
+
+News and Updates
+======
 2024.05
 ------
 A team of CLASS Lab wins the champion of IEEE ICRA 2024 "Radar in Robotics 2024" competition! Congratulations to Dr Ziyang Hong, Yushuai Chen and Siru Li. Please refer to [the competition website](https://sites.google.com/view/radar-robotics/competition) for more details if you are interested. 
