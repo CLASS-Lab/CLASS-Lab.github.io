@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "CLASS-LAB.png"
-  name             : "CLASS LAB"
+  name             : "CLASS Lab"
   pronouns         : # example: "she/her"  
-  bio              : "Control and Learning for Autonomous SystemS (CLASS) LAB is a research lab of the Department of Automation, Harbin Institute Technology, Shenzhen (HITSZ)"
+  bio              : "CLASS (Control and Learning for Autonomous SystemS) Lab is a research lab of the Department of Automation, Harbin Institute Technology, Shenzhen (HITSZ)"
   location         : "Shenzhen, China"
   employer         : "HITSZ"
   uri              : # URL
