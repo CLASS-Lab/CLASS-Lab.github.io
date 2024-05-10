@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CLASS Lab research SLAM and navigation for moving robots and autonomous systems such as autonomous ground vehicles, underwater robotics, and auto-driving."
+title: "Research on SLAM and navigation for moving robots and autonomous systems such as autonomous ground vehicles, underwater robotics, and auto-driving."
 author_profile: true
 redirect_from: 
   - /about/
