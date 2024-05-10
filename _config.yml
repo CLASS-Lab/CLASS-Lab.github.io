@@ -24,11 +24,11 @@ author:
   avatar           : "CLASS-LAB.png"
   name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "CLASS (Control and Learning for Autonomous SystemS) Lab is a research lab of the Department of Automation, Harbin Institute Technology, Shenzhen (HITSZ)"
+  bio              : "CLASS (Control and Learning for Autonomous SystemS) Lab is a research lab of the Department of Automation, Harbin Institute Technology, Shenzhen (HITSZ)."
   location         : "Shenzhen, China"
-  employer         : "HITSZ"
+  employer         : "Harbin Institute Technology, Shenzhen"
   uri              : # URL
-  email            : "huliang724@gmail.com" 
+  email            : # 
 
   # Academic websites
   arxiv            : # Username
