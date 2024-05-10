@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 2024.05
-======
+------
 A team of CLASS Lab wins the champion of IEEE ICRA 2024 "Radar in Robotics 2024" competition! Congratulations to Dr Ziyang Hong, Yushuai Chen and Siru Li. Please refer to [the competition website](https://sites.google.com/view/radar-robotics/competition) for more details if you are interested. 
 
 Getting started
